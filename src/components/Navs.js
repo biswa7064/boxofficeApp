@@ -5,7 +5,7 @@ const Navs = () => {
 
     const LINKS = [
         {to:'/', text: 'Home'},
-        {to:'/start', text: 'Start'}
+        {to:'/starred', text: 'Starred'}
     ]
     return (
 
