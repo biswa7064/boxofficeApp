@@ -62,8 +62,7 @@ const Show = () => {
         };
     },[id]);
 
-    console.log("show",show);
-
+   
 
     if(isLoading){
         return <div>Data being loaded</div>;
@@ -94,7 +93,7 @@ const Show = () => {
         <div>
              <h2>Seasons</h2>
              <Seasons 
-             season = {show._embedded.seasons}  />
+             seasons = {show._embedded.seasons}  />
         </div> 
 
         <div>
