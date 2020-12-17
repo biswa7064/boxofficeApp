@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/boxofficeApp/static/css/main.084fcccb.chunk.css",
+    "main.js": "/boxofficeApp/static/js/main.f95bfcfc.chunk.js",
+    "main.js.map": "/boxofficeApp/static/js/main.f95bfcfc.chunk.js.map",
+    "runtime-main.js": "/boxofficeApp/static/js/runtime-main.d953d659.js",
+    "runtime-main.js.map": "/boxofficeApp/static/js/runtime-main.d953d659.js.map",
+    "static/js/2.19df0e92.chunk.js": "/boxofficeApp/static/js/2.19df0e92.chunk.js",
+    "static/js/2.19df0e92.chunk.js.map": "/boxofficeApp/static/js/2.19df0e92.chunk.js.map",
+    "static/js/3.50838e6a.chunk.js": "/boxofficeApp/static/js/3.50838e6a.chunk.js",
+    "static/js/3.50838e6a.chunk.js.map": "/boxofficeApp/static/js/3.50838e6a.chunk.js.map",
+    "index.html": "/boxofficeApp/index.html",
+    "service-worker.js": "/boxofficeApp/service-worker.js",
+    "service-worker.js.map": "/boxofficeApp/service-worker.js.map",
+    "static/css/main.084fcccb.chunk.css.map": "/boxofficeApp/static/css/main.084fcccb.chunk.css.map",
+    "static/js/2.19df0e92.chunk.js.LICENSE.txt": "/boxofficeApp/static/js/2.19df0e92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d953d659.js",
+    "static/js/2.19df0e92.chunk.js",
+    "static/css/main.084fcccb.chunk.css",
+    "static/js/main.f95bfcfc.chunk.js"
+  ]
+}
