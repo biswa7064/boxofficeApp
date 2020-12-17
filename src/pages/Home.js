@@ -7,9 +7,11 @@ import MainpageLayout from '../components/MainpageLayout'
 import {apiGet} from '../misc/config'
 import Showgrid from '../components/show/Showgrid'
 import ActorGrid from '../components/actor/ActorGrid'
+import { useLastQuery } from '../misc/custom-hooks'
+
 
 const Home = () => {
-    const [input, setInput ] = useState('')
+    const [input, setInput ] = useLastQuery()
     const [results, setResults] = useState(null)
     const [searchOpt, setSearchOpt] = useState('shows')
     const isActive = searchOpt === "shows";
